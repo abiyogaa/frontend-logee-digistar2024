@@ -1,0 +1,31 @@
+{
+  "short_name": "Tim 81",
+  "name": "Tim 81 Digistar 2024",
+  "description": "Temukan Penawaran Pengiriman Terbaik dengan Armada Terpercaya",
+  "icons": [
+    {
+      "src": "Logee-icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Logee-icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Logee-icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF5722",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["logistics", "transportation"],
+  "lang": "id"
+}
